@@ -92,4 +92,3 @@ int calculate_pennies(int cents)
     return pennies;
 
 }
-calculate_quarters
